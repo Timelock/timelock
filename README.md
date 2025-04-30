@@ -40,6 +40,8 @@ Stay tuned.
 
 If you want to collaborate, write about us, or just chat:
 
-📧 team@timelockapp.com  
-🌍 [https://timelockapp.com](https://timelockapp.com)  
+📧 support@timelockapp.com
+🌍 [https://timelockapp.com](https://timelockapp.com) 
+💼 https://www.linkedin.com/company/time-lockapp
+📌 https://www.pinterest.com/timelockapp/
 📍 Built in Gibraltar 🇬🇮  
